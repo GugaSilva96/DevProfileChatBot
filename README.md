@@ -18,7 +18,7 @@ Este código é um ChatBot desenvolvido para facilitar a comunicação entre voc
 
 - Execute o Código: Abra o terminal, navegue até o diretório do projeto e execute o script Python. 🚀
 
-"python3 Gustavo_Bot.py"
+"python3 Candidato_Bot.py"
 
 ## Interaja com o ChatBot: Experimente as opções disponíveis para obter uma visão completa e animada sobre seus candidatos desenvolvedores. Divirta-se! 🎉🤖
 ## Como Este Código Ajuda Desenvolvedores? 💻
